@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Limkokwing Prospectus",
+    "slug": "prospectusapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.jpg",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0A0F1E"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.limkokwing.prospectus"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.jpg",
+        "backgroundColor": "#0A0F1E"
+      },
+      "package": "com.limkokwing.prospectus"
+    },
+    "web": {
+      "favicon": "./assets/icon.jpg"
+    },
+    "plugins": [
+      [
+        "expo-dev-client"
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "14af48e4-c8ad-4614-92e2-79f4f28c8152"
+      }
+    }
+  }
+}
