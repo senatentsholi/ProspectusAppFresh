@@ -1,6 +1,3 @@
-// NOTE: Place your course images in assets/images/ with the filenames below.
-// Each course uses a YouTube videoId for the embedded player in CourseDetailScreen.
-
 export const faculties = [
   {
     id: "1",
